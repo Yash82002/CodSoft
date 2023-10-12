@@ -5,11 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="01dee5e5-141a-4346-b4db-3d1ab642ce50" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Word_counter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/s1.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sample.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ATM_Interface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user_details.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodSoft/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodSoft/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,6 +69,10 @@
       <workItem from="1695135734310" duration="895000" />
       <workItem from="1695200977255" duration="798000" />
       <workItem from="1695201842771" duration="55000" />
+      <workItem from="1695630609725" duration="351000" />
+      <workItem from="1697018447747" duration="2694000" />
+      <workItem from="1697091960963" duration="7969000" />
+      <workItem from="1697104314219" duration="4000" />
     </task>
     <servers />
   </component>
